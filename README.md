@@ -16,7 +16,7 @@ LaraGigs is an innovative web application designed to connect freelancers and gi
 
 ## Requirments
 
--   PHP 8.2
+-   PHP 8.1
 -   <a href="https://getcomposer.org/" rel="nofollow">Composer</a>
 -   <a href="https://www.mamp.info/en/mamp/windows/" rel="nofollow">MAMP</a>
 -   <a href="https://laravel.com/docs/10.x" rel="nofollow">Laravel</a>
