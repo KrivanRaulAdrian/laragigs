@@ -1,5 +1,5 @@
 <p align="center">
-  <img align="center" height="200" src=" public/Laravel-icon.png">
+  <img align="center" height="200" src="public/Laravel-icon.png">
 </p>
 
 <h1 align="center">LaraGigs</h1>
@@ -9,7 +9,7 @@
 LaraGigs is an innovative web application designed to connect freelancers and gig-seekers with potential job opportunities. With a user-friendly interface and powerful search capabilities, LaraGigs aims to simplify the process of finding and applying for gigs, while providing a platform for businesses and individuals to post their job listings. Whether you're a freelancer looking for part-time work or a business seeking skilled professionals, LaraGigs is the go-to app for gig/job listings.
 
 <p align="center">
-  <img align="center" src=" public/laragigs.png">
+  <img align="center" src="public/laragigs.png">
 </p>
 
 # Usage
